@@ -58,7 +58,7 @@
 
 ## Why parameter efficiency?
 
-There are a lot of different dimensions to a model's performance and parameter efficiency is one that gets overlooked. If two models have similar accuracy, but one has fewer parameters it will probably be cheaper to store, run, distribute, and maintain. Some model families are inherently more parameter efficient than others, but those differences aren't showcased in accuracy leaderboards. This is a chance for parameter efficient architectures to get their time in the spotlight.
+There are a lot of different dimensions to a model's performance and parameter efficiency is one that gets overlooked. If two models have similar accuracy, but one has fewer parameters it will probably be cheaper to store, ~run~, distribute, and maintain. Some model families are inherently more parameter efficient than others, but those differences aren't showcased in accuracy leaderboards. This is a chance for parameter efficient architectures to get their time in the spotlight.
 
 ## Isn't this just a cherry-picked metric that sharpened cosine similarity does well on?
 
